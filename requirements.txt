@@ -1,0 +1,2 @@
+# PostgreSQL driver (binary wheel — no compiler needed on Windows)
+psycopg2-binary>=2.9.9
